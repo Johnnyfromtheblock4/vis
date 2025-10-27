@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+  background-color: black;
+  color: #fff;
+}
+
+.title {
+  font-size: 125px;
+  font-weight: 900;
+  color: #ee8838;
+}
+
+/* FOOTER */
+.created-by a {
+  color: #ee8838;
+  text-decoration: none;
+}
+
+.form-title {
+  color: #f7bc50;
+}
+
+.form-text {
+  color: #5e9ba7;
+}
+
+.messaggio-generato {
+  border: 1px solid white;
+}
